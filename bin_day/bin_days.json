@@ -1,6 +1,5 @@
 {
-  "last_updated": "2025-03-23T22:58:31.860625",
-  "next_color": "#051428",
+  "last_updated": "2025-03-24T23:11:54.568088",
   "collections": [
     {
       "bin_color": "Black Bin",
@@ -29,5 +28,6 @@
       ],
       "bin_type": ""
     }
-  ]
+  ],
+  "next_color": "#125fc7"
 }
